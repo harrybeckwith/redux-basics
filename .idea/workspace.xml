@@ -64,8 +64,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1955" />
-    <option name="y" value="38" />
+    <option name="x" value="1939" />
+    <option name="y" value="23" />
     <option name="width" value="1903" />
     <option name="height" value="1057" />
   </component>
@@ -177,12 +177,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548678389777</updated>
-      <workItem from="1548678391051" duration="2719000" />
+      <workItem from="1548678391051" duration="3008000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2719000" />
+    <option name="totallyTimeSpent" value="3008000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1955" y="38" width="1903" height="1057" extended-state="0" />
@@ -193,7 +193,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info id="npm" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.37886873" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3959445" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24986567" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" />
